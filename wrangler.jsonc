@@ -3,7 +3,7 @@
   "main": ".open-next/worker.js",
   "name": "cloundfare-deploy",
   "compatibility_date": "2025-03-25",
-  "compatibility_flags": [
+   "compatibility_flags": [
     "nodejs_compat"
   ],
   "assets": {
